@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Kandivali, Maharashtra"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "9928267040"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "vaibhav@M"
+    }
+]
